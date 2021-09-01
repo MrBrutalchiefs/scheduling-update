@@ -1,4 +1,0 @@
-/opt/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/silence/ProjectSpace/CProject/scheduling-update
--- Configuring done
--- Generating done
--- Build files have been written to: /home/silence/ProjectSpace/CProject/scheduling-update/build
